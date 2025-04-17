@@ -1,5 +1,6 @@
 # Power BI Dashboard-Techno Edge Sales Project
 
+
 # Objective:
 To design an interactive and insightful sales analytics dashboard that provides a 360-degree overview of Techno Edge’s business performance across different categories, geographies, and customer segments.
 
