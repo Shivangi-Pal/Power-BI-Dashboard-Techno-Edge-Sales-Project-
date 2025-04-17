@@ -18,27 +18,21 @@ Total Orders: 9,994
 
 # Interactive Visual Components:
 Sales by Region (Pie Chart):
-
 Visual breakdown of total sales across four main regions: West (32%), East (30%), Central (22%), and South (17%).
 
 Sales by Sub-Category (Bar Chart):
-
 Highlights top-performing product lines such as Phones, Chairs, and Tables, each contributing significantly to total sales.
 
 Sales by Category (Bar Chart):
-
 Compares sales performance across major categories: Technology ($838K), Furniture ($742K), and Office Supplies ($710K).
 
 Sales by Segment (Donut Chart):
-
 Consumer segment leads (50.56%), followed by Corporate (30.74%) and Home Office (18.7%).
 
 Sales by State (Map Visualization):
-
 Geo-spatial distribution of sales across the United States, enabling granular location-based performance insights.
 
 Sales Over Time by Region (Stacked Area Chart):
-
 Displays evolving sales trends from 2019 to 2022 across all regions, revealing growth patterns and regional contributions over time.
 
 # Tools & Techniques Used:
