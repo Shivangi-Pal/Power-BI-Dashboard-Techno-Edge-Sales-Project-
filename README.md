@@ -17,7 +17,7 @@ Total Profit: $286,000
 Total Orders: 9,994
 
 # Interactive Visual Components:
-# Sales by Region (Pie Chart):
+Sales by Region (Pie Chart):
 Visual breakdown of total sales across four main regions: West (32%), East (30%), Central (22%), and South (17%).
 
 Sales by Sub-Category (Bar Chart):
