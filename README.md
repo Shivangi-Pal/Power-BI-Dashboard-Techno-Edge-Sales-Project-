@@ -1,13 +1,13 @@
 # Power BI Dashboard-Techno Edge Sales Project
 
 
-# Objective:
+## Objective:
 To design an interactive and insightful sales analytics dashboard that provides a 360-degree overview of Techno Edge’s business performance across different categories, geographies, and customer segments.
 
-# Project Description:
+## Project Description:
 This Power BI dashboard visualizes and analyzes the key sales metrics of a retail-based company, providing dynamic insights for decision-makers. The dashboard was built to support sales and marketing teams in tracking revenue performance, identifying profitable segments, and recognizing regional trends.
 
-# Key Metrics Tracked:
+## Key Metrics Tracked:
 Total Sales: $2.3 Million
 
 Total Quantity Sold: 38,000 units
@@ -16,7 +16,7 @@ Total Profit: $286,000
 
 Total Orders: 9,994
 
-# Interactive Visual Components:
+## Interactive Visual Components:
 ### Sales by Region (Pie Chart):
 Visual breakdown of total sales across four main regions: West (32%), East (30%), Central (22%), and South (17%).
 
@@ -35,7 +35,7 @@ Geo-spatial distribution of sales across the United States, enabling granular lo
 ### Sales Over Time by Region (Stacked Area Chart):
 Displays evolving sales trends from 2019 to 2022 across all regions, revealing growth patterns and regional contributions over time.
 
-# Tools & Techniques Used:
+## Tools & Techniques Used:
 Power BI Desktop
 
 Data modeling and DAX functions
@@ -46,7 +46,7 @@ Custom color palette for professional aesthetics
 
 Map visualizations using built-in geographic data tools
 
-# Key Insights Gained:
+## Key Insights Gained:
 Technology is the top revenue-generating category.
 
 West and East regions dominate in terms of regional sales.
